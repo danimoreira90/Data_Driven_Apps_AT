@@ -1,5 +1,3 @@
-Aqui está um esboço para o arquivo README do seu projeto de análise de partidas de futebol, destacando as principais funcionalidades e etapas para configuração do ambiente:
-
 ```markdown
 # Análise de Partidas de Futebol
 
